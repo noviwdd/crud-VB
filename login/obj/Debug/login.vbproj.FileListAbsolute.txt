@@ -1,0 +1,11 @@
+F:\RPL XI\produktif\vb\login\login\bin\Debug\login.exe.config
+F:\RPL XI\produktif\vb\login\login\bin\Debug\login.exe
+F:\RPL XI\produktif\vb\login\login\bin\Debug\login.pdb
+F:\RPL XI\produktif\vb\login\login\bin\Debug\login.xml
+F:\RPL XI\produktif\vb\login\login\obj\Debug\login.Form1.resources
+F:\RPL XI\produktif\vb\login\login\obj\Debug\login.Resources.resources
+F:\RPL XI\produktif\vb\login\login\obj\Debug\login.vbproj.GenerateResource.Cache
+F:\RPL XI\produktif\vb\login\login\obj\Debug\login.exe
+F:\RPL XI\produktif\vb\login\login\obj\Debug\login.xml
+F:\RPL XI\produktif\vb\login\login\obj\Debug\login.pdb
+F:\RPL XI\produktif\vb\login\login\obj\Debug\login.Form2.resources
